@@ -1,2 +1,2 @@
-# Addtive-Tensor-Decomposition-Considering-Structural-Data-Information
+# Additive-Tensor-Decomposition-Considering-Structural-Data-Information
 supplementary materials
