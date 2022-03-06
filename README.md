@@ -1,6 +1,6 @@
 # Additive-Tensor-Decomposition-Considering-Structural-Data-Information
 These are supplementary materials for the paper 'Additive Tensor Decomposition Considering Structural Data Information'.
-It includes three videos for better illustration of the simulation/case study results.
+It includes three videos for better illustration of the simulation/case study results. The codes for simulations studies can be found in Exp1 and Exp2 folder. You can run main.m files in each folder to reproduice the results.
 ## 4.	Simulation studies for performance evaluation
 ### 4.1	Simulation study for Example 1
 The data for monitoring the crack growing process include <img src="https://latex.codecogs.com/gif.latex?I_1=30 " /> consecutive measurement images of size 40×40. These images form a tensor M in R^(30×40×40). We simulate M by summing up two tensors <img src="https://latex.codecogs.com/gif.latex?X_1 " /> 
